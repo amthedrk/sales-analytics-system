@@ -19,6 +19,7 @@ sales-analytics-system/
 ├── requirements.txt             # Project dependencies
 └── README.md                    # Project documentation
 
+'''
 Features
 
     Data Cleaning: Handles encoding issues, removes invalid records, and parses mixed formats.
@@ -56,5 +57,6 @@ Follow the on-screen prompts to filter data (optional).
 generated Output
 
     Report: output/sales_report.txt
+
 
     Data: data/enriched_sales_data.txt
