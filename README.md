@@ -1,5 +1,13 @@
 # Sales Analytics System
 
+Student Name: Ameya Kale
+
+Student ID: bitsom_ba_25071568
+
+Email: drameyakale.sm@gmail.com
+
+Date: 19-01-2026
+
 ## Overview
 A Python-based data analytics platform that processes messy sales transaction files, validates data, performs statistical analysis, and enriches records using the DummyJSON API.
 
@@ -60,4 +68,5 @@ generated Output
 
 
     Data: data/enriched_sales_data.txt
+
 
